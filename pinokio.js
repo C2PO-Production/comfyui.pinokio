@@ -74,6 +74,10 @@ module.exports = {
         href: "update.json",
         params: { fullscreen: true, run: true }
       }, {
+        text: "Update Python",
+        icon: "fa-solid fa-rotate",
+        href: "update-python.js"
+      }, {
         text: "Download SDXL Turbo Model",
         icon: "fa-solid fa-download",
         href: "download-turbo.json",
